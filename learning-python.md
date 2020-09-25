@@ -11,7 +11,7 @@ Here are some resources I have used. I'll add more as I remember.
 - [DataCamp](https://www.datacamp.com/)
   - This is where I started learning Python. It's nice b/c you don't have to worry about installing anything, you just execute code in the browser. I didn't use it for too long b/c it was a little expensive and slow sometimes
 - [Official Python documentation](https://docs.python.org/)
-  - This is a bit dense, but is a good definitive reference.
+  - This is a bit dense, but is a good definitive reference. The [Tutorial](https://docs.python.org/3/tutorial/) is a good place to start.
 - [StackOverflow](https://stackoverflow.com/)
   - I'm sure you learn about SO if you don't already know about it. Everyone uses it. If you have a question it's most likely been asked here before.
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
